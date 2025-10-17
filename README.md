@@ -7,7 +7,7 @@
 
 書籍是人們獲取知識的主要途徑。然而，如今的社會太浮躁，不少人不願意花時間靜下心來仔細讀書，許多開發人員也是如此。殊不知，書籍沉澱了前人的經驗與思考。
 
-寫書不易，創作好的作品更是需要耗費很大心力，Doocs 鼓勵各位同學**購買正版書籍以支持原書作者**，只要在書籍名稱上點擊即可跳到購買頁。好書推薦請到 [Discussions 讨论区](https://github.com/doocs/technical-books/discussions/30)，也可以直接提交 [PR](https://github.com/doocs/technical-books/pulls)。
+寫書不易，創作好的作品更是需要耗費很大心力，Doocs 鼓勵各位同學**購買正版書籍以支持原書作者**，只要在書籍名稱上點擊即可跳到購買頁。好書推薦請到 [Discussions 討論區](https://github.com/doocs/technical-books/discussions/30)，也可以直接提交 [PR](https://github.com/doocs/technical-books/pulls)。
 
 ## 站點
 
