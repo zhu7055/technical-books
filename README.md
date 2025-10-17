@@ -1,4 +1,4 @@
-# 值得一看的技術類書籍列表
+# 技術類書籍列表
 
 [![GitHub](https://badgen.net/badge/icon/doocs?icon=github&label&color=green)](https://github.com/doocs)
 [![license](https://badgen.net/github/license/doocs/technical-books?color=green)](https://github.com/doocs/technical-books/blob/main/LICENSE)
